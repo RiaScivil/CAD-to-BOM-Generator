@@ -1,6 +1,10 @@
 # CAD-to-BOM-Generator
 AI-powered CAD Bill of Materials generator with real component extraction"
 # CAD Bill of Materials (BoM) Generator
+<img width="1874" height="743" alt="Screenshot 2025-10-01 173312" src="https://github.com/user-attachments/assets/266b86d1-ebed-47c6-930a-94482124761c" />
+<img width="1851" height="714" alt="Screenshot 2025-10-01 173324" src="https://github.com/user-attachments/assets/80636bab-0ef0-4036-8d63-541010eb20e5" />
+<img width="1833" height="733" alt="Screenshot 2025-10-01 173338" src="https://github.com/user-attachments/assets/ec5c47ab-b8cc-4fde-9816-7d0ab09cb889" />
+<img width="1829" height="708" alt="Screenshot 2025-10-01 173351" src="https://github.com/user-attachments/assets/8c16aab9-72b4-4aaa-8920-828fa3556876" />
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
