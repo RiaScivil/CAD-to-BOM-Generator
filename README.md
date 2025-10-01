@@ -116,14 +116,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Built for the construction industry
-- Uses ezdxf for DXF processing
 - Powered by FastAPI and modern web technologies
 
-## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/cad-bom-generator/issues)
-- 📖 **Documentation**: [User Guide](docs/user_guide.md)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/cad-bom-generator/discussions)
 
 ---
 
